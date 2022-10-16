@@ -1,5 +1,9 @@
 # Reinforcement Learning - MiniHack the Planet 
 
+#Report link 
+
+https://www.overleaf.com/6657212355fjgckfrqyykz
+
 # Group Members
 
 Vuyo Ncume:2095458
