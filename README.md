@@ -1,7 +1,9 @@
 # Reinforcement Learning - MiniHack the Planet 
 
-# Group members 
+# Group Members
 
-Vuyo Ncume - 2089594
-Fezile Mahlangu - 2089676 
-Mmasehume Raphiri - 2089194
+Vuyo Ncume:2095458
+
+Mmasehume Raphiri:2089198
+
+Fezile Mahlangu:2089676
