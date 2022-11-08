@@ -15,9 +15,6 @@ Fezile Mahlangu:2089676
 # Methods :
 
 * DQN -> value function method
-* MCTS -> model-based method
+* A2C -> policy based method 
 
-Tasks:
-- [ ] Report 
-- [ ] Videos 
-- [ ] Test on unknown seeds 
+
