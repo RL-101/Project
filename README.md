@@ -19,12 +19,13 @@ Fezile Mahlangu:2089676
 
 # Structure of Repo:
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
+    ├── DQN                   # Compiled files (alternatively `dist`)
+    │   ├── code              # Load and stress tests
+    │   ├── videos            # Load and stress tests
+    ├── A2C                   # Documentation files (alternatively `doc`)
+    │   ├── code              # Load and stress tests
+    │   ├── video             # Load and stress tests
+    ├── groupmembers          # Source files (alternatively `lib` or `app`)
     └── README.md
 
 
