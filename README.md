@@ -17,4 +17,5 @@ Fezile Mahlangu:2089676
 * DQN -> value function method
 * A2C -> policy based method 
 
+# Structure of Repo:
 
