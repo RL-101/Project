@@ -18,4 +18,14 @@ Fezile Mahlangu:2089676
 * A2C -> policy based method 
 
 # Structure of Repo:
+.
+├── build                   # Compiled files (alternatively `dist`)
+├── docs                    # Documentation files (alternatively `doc`)
+├── src                     # Source files (alternatively `lib` or `app`)
+├── test                    # Automated tests (alternatively `spec` or `tests`)
+├── tools                   # Tools and utilities
+├── LICENSE
+└── README.md
+
+
 
