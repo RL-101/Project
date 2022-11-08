@@ -19,13 +19,13 @@ Fezile Mahlangu:2089676
 
 # Structure of Repo:
     .
-    ├── DQN                   # Compiled files (alternatively `dist`)
-    │   ├── code              # Load and stress tests
-    │   ├── videos            # Load and stress tests
-    ├── A2C                   # Documentation files (alternatively `doc`)
-    │   ├── code              # Load and stress tests
-    │   ├── video             # Load and stress tests
-    ├── groupmembers          # Source files (alternatively `lib` or `app`)
+    ├── DQN                   
+    │   ├── DQN.ipynb         # Code for DQN agent 
+    │   ├── videos            # Folder with best DQN runs videos
+    ├── Actor Critic          
+    │   ├── A2C.ipynb         # Code for Actor Critic agent 
+    │   ├── videos            # Folder with best A2C runs videos
+    ├── group_members.txt     # Textfile containing group member details 
     └── README.md
 
 
