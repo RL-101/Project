@@ -25,6 +25,7 @@ Fezile Mahlangu:2089676
     ├── Actor Critic          
     │   ├── A2C.ipynb         # Code for Actor Critic agent 
     │   ├── videos            # Folder with best A2C runs videos
+    ├── Report.pdf            # Report 
     ├── group_members.txt     # Textfile containing group member details 
     └── README.md
 
